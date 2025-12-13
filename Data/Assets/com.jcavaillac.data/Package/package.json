@@ -1,0 +1,11 @@
+{
+  "name": "com.jcavaillac.data",
+  "version": "1.0.1",
+  "displayName": "Data online saver",
+  "description": "Allow GoogleSheets save",
+  "unity": "2021.3",
+  "author": {
+    "name": "Jacques Cavaillac",
+    "email": "jacques.cavaillac@gmail.com"
+  }
+}
