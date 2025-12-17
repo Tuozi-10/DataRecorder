@@ -1,3 +1,5 @@
+# if UnityEditor
+
 using System.IO;
 using System.Text;
 using UnityEditor;
@@ -115,3 +117,6 @@ public class KeyEditor : EditorWindow
         File.WriteAllText(filePath, json.ToString());
     }
 }
+
+
+#endif
